@@ -52,7 +52,7 @@ Replace `your_google_maps_api_key` with your actual API key from Google Cloud Pl
 Run the script using Python:
 
 ```bash
-setup - google search api.ipynb
+get_company_details_googleapi.ipynb
 ```
 
 ### 2. Specify the Query (DOTENV File)
